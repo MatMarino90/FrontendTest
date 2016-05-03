@@ -1,0 +1,7 @@
+RATIONAL PROGETTO.
+
+Ho eseguito il progetto usando il framework bootstrap così da rendere la web page fruibile da tutti i device desktop e mobile, ho inserito un'animazione in css3 così da rendere maggiormente interattiva la fruizione da parte dell'utente, ho aggiunto uno script che permette all'animazione di partire esattamente nel momento in cui l'utente ha quella section scrollata nel browser.
+
+Perfetta compatibilità cross-browsers e completezza delle specifiche.
+
+
